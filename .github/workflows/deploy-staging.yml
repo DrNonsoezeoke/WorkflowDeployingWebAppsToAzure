@@ -11,8 +11,8 @@ IMAGE_REGISTRY_URL: ghcr.io
 ###################################################
 ###### Replace <username> with GitHib username ####
 ###################################################
-DOCKER_IMAGE_NAME: <username>-azure-ttt
-AZURE_WEBAPP_NAME: <username>-ttt-app
+DOCKER_IMAGE_NAME: DrNonsoezeoke-azure-ttt
+AZURE_WEBAPP_NAME: DrNonsoezeoke-ttt-app
 ###################################################
 
   # Allows you to run this workflow manually from the Actions tab
